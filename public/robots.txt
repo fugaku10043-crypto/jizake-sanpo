@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jizake-sanpo.readdy.co/sitemap.xml
+Sitemap: https://jizake-sanpo.vercel.app/sitemap.xml
