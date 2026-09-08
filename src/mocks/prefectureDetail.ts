@@ -74,7 +74,7 @@ export const prefectureDetails: PrefectureDetail[] = [
     regionId: "tohoku",
     regionName: "東北",
     heroImageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20flat%20illustration%20of%20Akita%20snowy%20rice%20field%20winter%20countryside%20with%20traditional%20wooden%20house%20and%20warm%20light%2C%20pale%20cream%20yellow%20sky%2C%20editorial%20cute%20illustration%2C%20friendly%20warm%20tone%2C%20no%20text&width=1200&height=800&seq=jizake-detail-akita-hero&orientation=landscape",
+      "/images/readdy/readdy-09.jpg",
     catchCopy: "米どころが生む、やさしい味。",
     intro: "ワインみたいに香る、新しい東北の旗手。",
     description:
@@ -115,7 +115,7 @@ export const prefectureDetails: PrefectureDetail[] = [
     regionId: "tohoku",
     regionName: "東北",
     heroImageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20flat%20illustration%20of%20Aizu%20Wakamatsu%20castle%20town%20with%20traditional%20samurai%20houses%20and%20distant%20mountains%20under%20warm%20cream%20sky%2C%20editorial%20cute%20illustration%2C%20friendly%20tone%2C%20no%20text&width=1200&height=800&seq=jizake-detail-fukushima-hero&orientation=landscape",
+      "/images/readdy/readdy-08.jpg",
     catchCopy: "全国新酒鑑評会、金賞常連県。",
     intro: "万能型、何にでも合うバランスの福島酒。",
     description:
@@ -156,7 +156,7 @@ export const prefectureDetails: PrefectureDetail[] = [
     regionId: "tohoku",
     regionName: "東北",
     heroImageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20flat%20illustration%20of%20Yamagata%20mountain%20countryside%20with%20cherry%20trees%20and%20traditional%20Japanese%20house%20on%20a%20hill%20under%20soft%20blue%20sky%2C%20cream%20warm%20pastel%20background%2C%20editorial%20cute%20illustration%2C%20friendly%20tone%2C%20no%20text&width=1200&height=800&seq=jizake-detail-yamagata-hero&orientation=landscape",
+      "/images/readdy/readdy-18.jpg",
     catchCopy: "吟醸王国、山形。",
     intro: "フルーティーで華やか。吟醸酒好きなら外せない。",
     description:
@@ -197,7 +197,7 @@ export const prefectureDetails: PrefectureDetail[] = [
     regionId: "chubu",
     regionName: "中部",
     heroImageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20flat%20illustration%20of%20Niigata%20rice%20paddy%20fields%20in%20summer%20with%20blue%20sky%20and%20gentle%20mountains%2C%20traditional%20rural%20Japanese%20countryside%2C%20cream%20warm%20pastel%20background%2C%20editorial%20cute%20illustration%2C%20friendly%20tone%2C%20no%20text&width=1200&height=800&seq=jizake-detail-niigata-hero&orientation=landscape",
+      "/images/readdy/readdy-16.jpg",
     catchCopy: "淡麗辛口のふるさと。",
     intro: "雪国の水と米で生まれる、淡麗辛口の代表格。",
     description:
@@ -238,7 +238,7 @@ export const prefectureDetails: PrefectureDetail[] = [
     regionId: "chubu",
     regionName: "中部",
     heroImageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20flat%20illustration%20of%20Kanazawa%20old%20town%20Higashi%20Chaya%20district%20with%20traditional%20wooden%20tea%20houses%20and%20stone%20pavement%20under%20warm%20cream%20sky%2C%20editorial%20cute%20illustration%2C%20friendly%20tone%2C%20no%20text&width=1200&height=800&seq=jizake-detail-ishikawa-hero&orientation=landscape",
+      "/images/readdy/readdy-12.jpg",
     catchCopy: "加賀料理と、ふくよかな一杯。",
     intro: "上品で奥行きある、ふくよかな旨口タイプ。",
     description:
@@ -443,7 +443,7 @@ export const prefectureDetails: PrefectureDetail[] = [
     regionId: "shikoku",
     regionName: "四国",
     heroImageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20flat%20illustration%20of%20Kochi%20Shimanto%20river%20clear%20stream%20and%20traditional%20wooden%20bridge%20with%20green%20mountains%20under%20cream%20blue%20sky%2C%20editorial%20cute%20illustration%2C%20friendly%20tone%2C%20no%20text&width=1200&height=800&seq=jizake-detail-kochi-hero&orientation=landscape",
+      "/images/readdy/readdy-13.jpg",
     catchCopy: "宴会王国が生む、キリッと辛口。",
     intro: "宴会文化が育てた、料理に寄り添うキレのある酒。",
     description:

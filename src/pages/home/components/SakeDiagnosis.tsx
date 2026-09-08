@@ -138,7 +138,7 @@ export default function SakeDiagnosis() {
             <div className="bg-background-50 rounded-3xl border border-background-200/70 shadow-soft p-8 md:p-10 text-center">
               <div className="relative mx-auto w-40 h-40 md:w-52 md:h-52 mb-6 rounded-full overflow-hidden border-4 border-background-50 shadow-soft">
                 <img
-                  src="https://readdy.ai/api/search-image?query=Soft%20pop%20cute%20editorial%20illustration%20of%20various%20Japanese%20sake%20bottles%20and%20small%20cups%20on%20cream%20background%20with%20question%20mark%20bubbles%2C%20friendly%20flat%20illustration%2C%20warm%20yellow%20and%20indigo%20accents%2C%20inviting%20mood%2C%20no%20text&width=600&height=600&seq=jizake-diagnosis-start-01&orientation=squarish"
+                  src="/images/readdy/readdy-02.jpg"
                   alt="地酒さんぽの日本酒診断：あなたに合う地酒を見つけるイメージイラスト"
                   className="w-full h-full object-cover object-top"
                 />

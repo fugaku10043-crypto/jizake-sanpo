@@ -50,7 +50,7 @@ export default function About() {
             <div className="absolute -bottom-6 -right-4 w-20 h-20 bg-secondary-200 rounded-3xl -rotate-6 anim-floaty" style={{ animationDelay: "1.3s" }}></div>
             <div className="relative rounded-3xl overflow-hidden border-4 border-background-50 shadow-soft">
               <img
-                src="https://readdy.ai/api/search-image?query=Soft%20pop%20editorial%20illustration%20of%20young%20Japanese%20friends%20enjoying%20sake%20at%20cozy%20countryside%20izakaya%20with%20warm%20cream%20pastel%20background%2C%20rice%20paddy%20fields%20outside%2C%20friendly%20and%20cute%20flat%20illustration%20style%2C%20no%20text%2C%20harmonious%20composition%2C%20editorial%20warm%20tone&width=1200&height=900&seq=jizake-about-illust-01&orientation=landscape"
+                src="/images/readdy/readdy-07.jpg"
                 alt="地酒さんぽについて：日本酒初心者が居酒屋で地酒を楽しむイメージイラスト"
                 className="w-full h-full object-cover object-top"
               />

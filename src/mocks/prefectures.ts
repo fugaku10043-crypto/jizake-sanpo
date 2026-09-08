@@ -26,7 +26,7 @@ export const prefectures: PrefectureCard[] = [
     travelTip: "まずは新潟駅のぽんしゅ館で、いろいろ飲み比べてみるのも楽しい。",
     intro: "雪国の水と米で生まれる、淡麗辛口の代表格。日本酒初心者にもすっきり飲みやすく、最初の一杯にぴったり。",
     imageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20illustration%20of%20Niigata%20Japan%20countryside%20with%20rice%20paddy%20fields%20under%20pale%20blue%20sky%20and%20gentle%20mountains%2C%20cream%20background%2C%20editorial%20flat%20illustration%2C%20warm%20friendly%20tone%2C%20no%20text&width=800&height=600&seq=jizake-prefecture-niigata-01&orientation=landscape",
+      "/images/readdy/readdy-24.jpg",
     color: "primary",
   },
   {
@@ -41,7 +41,7 @@ export const prefectures: PrefectureCard[] = [
     travelTip: "金沢のひがし茶屋街で、ちょっと贅沢な蔵元酒バーをのぞいてみて。",
     intro: "上品で奥行きある、ふくよかな旨口タイプ。日本酒初心者でも「日本酒っておいしい」と思えるやさしい味わい。",
     imageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20illustration%20of%20Kanazawa%20Higashi%20Chaya%20district%20old%20town%20wooden%20houses%20with%20cream%20warm%20pastel%20background%2C%20editorial%20flat%20illustration%2C%20cute%20and%20friendly%2C%20no%20text&width=800&height=600&seq=jizake-prefecture-ishikawa-01&orientation=landscape",
+      "/images/readdy/readdy-23.jpg",
     color: "accent",
   },
   {
@@ -56,7 +56,7 @@ export const prefectures: PrefectureCard[] = [
     travelTip: "西条の酒蔵通りは徒歩で蔵を回れる、日本酒さんぽの聖地。",
     intro: "軟水で仕込む、口あたりまろやかな甘口寄り。日本酒初心者が「甘くて飲みやすい」と驚く、やさしい地酒。",
     imageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20illustration%20of%20Hiroshima%20Saijo%20sake%20brewery%20town%20with%20white%20wall%20warehouse%20and%20chimney%20in%20pale%20blue%20cream%20background%2C%20editorial%20flat%20illustration%2C%20warm%20and%20friendly%20tone%2C%20no%20text&width=800&height=600&seq=jizake-prefecture-hiroshima-01&orientation=landscape",
+      "/images/readdy/readdy-22.jpg",
     color: "secondary",
   },
   {
@@ -71,7 +71,7 @@ export const prefectures: PrefectureCard[] = [
     travelTip: "秋田駅前の地酒バーで、利き酒セットを頼むとお得に飲み比べできる。",
     intro: "ワインみたいに香る、新しい東北の旗手。日本酒初心者にも「これが日本酒？」と驚かれる華やかな地酒。",
     imageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20illustration%20of%20Akita%20winter%20snow%20rice%20field%20countryside%20with%20wooden%20house%20under%20pale%20yellow%20cream%20sky%2C%20editorial%20flat%20illustration%2C%20cute%20and%20warm%20tone%2C%20no%20text&width=800&height=600&seq=jizake-prefecture-akita-01&orientation=landscape",
+      "/images/readdy/readdy-21.jpg",
     color: "primary",
   },
   {
@@ -86,7 +86,7 @@ export const prefectures: PrefectureCard[] = [
     travelTip: "会津若松の街歩きと一緒に、蔵元直営の酒蔵カフェへ。",
     intro: "万能型、何にでも合うバランスの福島酒。日本酒初心者にも「これなら毎日飲める」と好評の地酒。",
     imageUrl:
-      "https://readdy.ai/api/search-image?query=Soft%20pop%20illustration%20of%20Aizu%20Wakamatsu%20castle%20and%20countryside%20village%20with%20pale%20blue%20cream%20warm%20background%2C%20editorial%20flat%20illustration%2C%20friendly%20and%20cute%20tone%2C%20no%20text&width=800&height=600&seq=jizake-prefecture-fukushima-01&orientation=landscape",
+      "/images/readdy/readdy-20.jpg",
     color: "accent",
   },
 ];

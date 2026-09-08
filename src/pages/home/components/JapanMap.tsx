@@ -10,7 +10,7 @@ export default function JapanMap({ selectedId, onSelect }: Props) {
     <div className="relative w-full aspect-[5/4] max-w-[560px] mx-auto select-none">
       {/* Soft illustrated Japan map background */}
       <img
-        src="https://readdy.ai/api/search-image?query=Cute%20soft%20pop%20flat%20illustration%20of%20Japan%20archipelago%20map%20on%20cream%20background%2C%20with%20pale%20blue%20sea%2C%20warm%20rice%20yellow%20and%20pale%20indigo%20land%20shapes%2C%20friendly%20hand-drawn%20editorial%20style%2C%20gentle%20pastel%20palette%2C%20no%20text%2C%20no%20labels%2C%20centered%20composition%2C%20simple%20and%20charming&width=1200&height=960&seq=jizake-japan-map-illust-v3&orientation=landscape"
+        src="/images/readdy/readdy-01.jpg"
         alt="日本酒初心者向けに都道府県から地酒を探せる地酒さんぽの日本地図"
         className="absolute inset-0 w-full h-full object-contain object-top"
       />
