@@ -5,6 +5,7 @@ import BeginnerGuide from "./components/BeginnerGuide";
 import SakeDiagnosis from "./components/SakeDiagnosis";
 import About from "./components/About";
 import Footer from "./components/Footer";
+import { WelcomeSurvey, FeedbackSurvey } from "./components/Survey";
 
 export default function Home() {
   return (
@@ -12,10 +13,12 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <WelcomeSurvey />
         <PrefectureCards />
         <BeginnerGuide />
         <SakeDiagnosis />
         <About />
+        <FeedbackSurvey />
       </main>
       <Footer />
     </div>
