@@ -1,3 +1,4 @@
+import { DiagnosisSurvey } from "./Survey";
 import { useState, useCallback } from "react";
 import { quizQuestions, quizResults, type QuizResult } from "@/mocks/diagnosis";
 
@@ -302,6 +303,8 @@ export default function SakeDiagnosis() {
                     </p>
                   </div>
                 </div>
+
+                <DiagnosisSurvey />
 
                 {/* Share row */}
                 <div className="border-t border-background-200 pt-5 mb-6">
